@@ -3,7 +3,7 @@
 $servernanme = "localhost";
 $username = "root";
 $password = "";
-$database = "Revision_Curd";
+$database = "php_curd";
 
 $conn = mysqli_connect($servernanme, $username, $password, $database);
 if($conn->connect_error) {

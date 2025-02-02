@@ -52,7 +52,7 @@ $address = $row['address'];
               <input type="text" class="form-control" id="address" name="address" value="<?php echo $address; ?>" placeholder="Enter your address" required> 
             </div>
             <br>
-            <button type="submit" name="submit" class="btn btn-primary">Submit</button>
+            <button type="submit" name="submit" class="btn btn-primary">Update</button>
           </form><br>
           <a href="show-list.php" class="btn btn-primary">Show List</a><br><br><br><br>
     </div>
